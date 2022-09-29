@@ -33,4 +33,4 @@ git push origin 자기브런치
 
 |[Kick](https://github.com/kick-snare)|[Blue](https://github.com/dlwltn0430)|[Ekil](https://github.com/YangHyeonBin)|[Ellgu](https://github.com/f1rstf1y9)|[Jdo](https://github.com/JongDo737)|[Brio](http://github.com/SL-Brio)|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|유준|지수|현빈|은경|종민|용진|
+|||||||
