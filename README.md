@@ -1,6 +1,6 @@
 
 
-## 😉 `console.log("hello, everyone")`
+## 😉 println("hello, everyone")
 
 **안녕하세요!**  
 부산대학교 UMC 3기 **Android 세션** 정보 공유 및 정리를 위한 github 레포지터리입니다.
@@ -29,5 +29,4 @@ git push origin 자기브런치
 - 충돌나지 않도록 main에 직접 푸쉬하지는 말도록 합시다!
 ```
 
-## 파트원
 
