@@ -10,7 +10,7 @@
 
 ```shell
 // 1. repo 클론하기
-git clone https://github.com/UMC-PNU-2nd/web-study.git
+git clone https://github.com/Brio-yj/3rd-umc-pnu-front-study
 
 // 2. 자신의 branch 생성 및 이동
 git checkout -b 이름
